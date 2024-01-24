@@ -19,8 +19,8 @@
   <?php include_once('navbar.php'); ?>
   <!-- /.navbar -->
 
-  <!-- Main Sidebar Container -->
-  <?php include_once('sidebar.php'); ?>
+    <!-- Sidebar -->
+    <?php include_once('sidebar.php') ?>
 
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
